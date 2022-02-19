@@ -265,3 +265,4 @@ class App {
 const app = new App();
 app._getPosition();
 console.log('Complated');
+console.log('njj');
