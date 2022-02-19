@@ -264,4 +264,8 @@ class App {
 }
 const app = new App();
 app._getPosition();
-console.log('Complated');
+newFeature();
+
+function newFeature() {
+    console.log('New feature');
+}
